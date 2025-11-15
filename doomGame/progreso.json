@@ -1,0 +1,11 @@
+{
+    "nombre": "CAT",
+    "vida": -13,
+    "ataque": 45,
+    "nivel": 4,
+    "arma": "Lanzacohetes",
+    "inventario": [
+        "Lanzacohetes"
+    ],
+    "demonios_eliminados": 3
+}
